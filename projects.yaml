@@ -1486,6 +1486,13 @@ projects:
     description: >-
       Interactive smart contract generator based on OpenZeppelin Contracts.
     category: developer-tools
+  - name: Chain-Love/chain.love-mcp
+    github_id: Chain-Love/chain.love-mcp
+    npm_id: "@chain-love/mcp"
+    description: >-
+      Official MCP server and hosted Streamable HTTP gateway for discovering
+      and comparing Web3 infrastructure providers across blockchain networks.
+    category: developer-tools
   - name: DeusData/codebase-memory-mcp
     github_id: DeusData/codebase-memory-mcp
     description: >
